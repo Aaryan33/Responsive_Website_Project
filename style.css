@@ -78,6 +78,11 @@
       font-weight: bold;
       visibility: visible;
   }
+
+  .navbar-collapse{
+
+    z-index: 1;
+  }
    
 
   .container a{
