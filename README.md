@@ -29,4 +29,8 @@ This project serves as a template for a developer-oriented interactive web appli
 
 ## 🔭 Future Scopes
 
-- Integration with Payment Gateways: Integrate secure payment gateways to facilitate real purchases within the app, improving the purchase flow and user trust.
+- **Integration with Payment Gateways**: Integrate secure payment gateways to facilitate real purchases within the app, improving the purchase flow and user trust.
+  
+- **Real-Time Notifications**: Implement real-time notifications for updates, promotional offers, or reminders, keeping users informed and engaged.
+  
+- **Integration with AI for Improved User Experience**: Use AI to provide personalized recommendations, smart form suggestions, and natural language processing for enhanced user interactions.
